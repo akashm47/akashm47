@@ -1,4 +1,4 @@
-- print("👋 Hi, I’m Akash")
+- 👋 Hi, I’m Akash
 - 👀 I’m interested in Frontend Developer, Cloud Computing & Data Science
 - 🌱 I’m currently learning React js, Node, PHP, js
 - 🙋🏻‍♂️ Ask me about HTML, Python, CSS, C, javascript
