@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Akash
-- 👀 I’m interested in Frontend Developer, Cloud Computing & Data Science
+- 😏 Currently working as Frontend Developer.
+- 👀 I’m interested in Cloud Computing & Data Science.
 - 🌱 I’m currently learning React js, Node, PHP, js
 - 🙋🏻‍♂️ Ask me about HTML, Python, CSS, C, javascript
 - 📫 How to reach me: 
